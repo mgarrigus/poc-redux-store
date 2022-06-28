@@ -1,0 +1,7 @@
+.git/
+build/
+dist/
+coverage/
+node_modules/
+__mockdata__
+tools/mock-data.js
